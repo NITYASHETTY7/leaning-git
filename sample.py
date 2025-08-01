@@ -1,2 +1,2 @@
 #learning-git
-print("keep learning new things to find your fit")
+print("keep learning new things to find your fit ,be thurst for knowledge")
